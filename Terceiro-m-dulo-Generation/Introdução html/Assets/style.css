@@ -1,0 +1,47 @@
+/*Estilos da página index.html*/
+
+.center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li {
+    padding: 15px;
+    display: inline;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+#menu li a:hover {
+    color: darkred;
+}
+
+.p-30 {
+    padding: 30px;
+}
+
+.br-50 {
+    border-radius: 50%;
+}
+
+.wh-150 {
+    width: 300px;
+    height: 300px;
+}
+
+.tm-social {
+    width: 50px;
+    height: 50px;
+}
+
+/*Estilos da página index.html*/
