@@ -1,0 +1,18 @@
+.center{
+    text-align: center;
+}
+
+#menu li{
+    padding: 15px;
+    display: inline;
+}
+
+#menu li a{
+    text-decoration: none;
+    color: black;
+
+}
+
+#menu li a:hover{
+    color:firebrick;
+}
