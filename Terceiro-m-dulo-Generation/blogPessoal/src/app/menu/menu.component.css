@@ -5,3 +5,7 @@
 .cursor{
     cursor: pointer;
 }
+
+.border-radius{
+    border-radius: 50px;
+}
