@@ -1,0 +1,30 @@
+ul.social-network{
+    list-style: none;
+    
+}
+
+ul.social-network li{
+    padding: 5px;
+    display: inline;
+    
+}
+
+.fa{
+    font-size: 35pt;
+    color: #fff;
+    padding: 10px;
+
+}
+
+.fa-facebook-square:hover{
+    color: #3b5998;
+}
+
+.fa-instagram:hover{
+    color: #c13584;
+}
+
+.fa-youtube-play:hover{
+    color: #ff4c06;
+}
+
